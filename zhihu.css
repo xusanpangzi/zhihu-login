@@ -1,0 +1,138 @@
+/* CSS Document */
+
+#logo {
+	background-image: url(https://i.loli.net/2018/08/11/5b6eb045498d8.png);
+	background-position: center center;
+	height: 150px;
+	background-color: #FFFFFF;
+}
+
+#table1{
+	width:80%;
+	line-height:60px;
+	border-color: #CCCCCC;
+	margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #999999;
+
+}
+#login{
+	background-color:#FFFFFF;
+	margin-top: 50px;    
+}
+#form1 {
+}
+.STYLE4 {
+	font-size: 16px;
+	color: #CCCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#div1{
+    height:60px;
+	width:30%;
+	float:left;
+}
+#div2{
+    height:60px;
+	width:10%;
+	float:left;
+}
+
+#div3{
+    height:60px;
+	float:left;
+}
+#div4{
+    height:60px;
+	width:65%;
+	float:left;
+}
+#div5{
+    height:60px;
+	float:left;
+}
+#div6{
+	width:100%;
+	font-size:13px
+}
+#text0 {
+    background-color: Transparent;
+    border-style :none;
+    outline:none;
+}
+#text1 {
+    background-color: Transparent;
+    border-style :none;
+    outline:none;
+}
+#select{
+    background-color: Transparent; 
+	border-style :none; 
+	outline:none;
+}
+#submit{
+    height:60px;
+	background-color: Transparent; 
+	border-style :none; 
+	outline:none;
+}
+#submit1{ 
+    background-color: Transparent; 
+	border-style :none; 
+	outline:none;
+	font-size:14px;
+	color:#0099FF;
+}
+button:hover span {
+  color:#CCCCCC
+}
+#table2{
+    width:80%;
+	line-height:50px;
+	border-color: #CCCCCC;
+	margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #999999;
+}
+#zhuce{
+	border-style :none;
+	outline:none;
+	background-color:#0066FF;
+	height:35px;
+}
+#zhuce:hover{
+    background-color:#0066CC;
+	
+}
+#table3{
+     background-color:rgb(246,246,246);
+	 width:100%;
+	 line-height:50px;
+	 margin: auto;
+     font-family: Arial, Helvetica, sans-serif;
+	 font-size: 14px;
+	 color:#999999;
+	 text-align:center;
+}
+#app{
+    background-color:#999999;
+	border-style :none; 
+	outline:none;
+	
+}
+p{
+  text-align:center;
+  color:#FFFFFF;
+}
+body{
+    background-color:#0099FF;
+	z-index:-2;
+}
+#div10{
+    background:url(https://static.zhihu.com/heifetz/sign_bg.db29b0fbd2f78dd8c1b7.png) no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
+	z-index:-1;
+}
